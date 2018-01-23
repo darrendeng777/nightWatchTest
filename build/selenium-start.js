@@ -8,5 +8,4 @@ selenium.start({
     console.log(`Selenium 已手工启动，进程 PID: ${child.pid}`)
     console.log('当不再需要运行 Selenium 时可关闭此 PID 进程.')
 
-    //change something here
-})
+    //change something her
