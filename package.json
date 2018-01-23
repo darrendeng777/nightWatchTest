@@ -1,0 +1,22 @@
+{
+  "name": "nightwatchtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nightwatch": "^0.9.19",
+    "selenium-standalone": "^6.12.0"
+  },
+   "scripts": {
+        "start": "node ./startup.js",
+        "selenium-setup": "node ./build/selenium-setup.js",
+        "selenium-start": "node ./build/selenium-start.js"
+    }
+}
+
