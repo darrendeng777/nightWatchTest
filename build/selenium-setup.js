@@ -8,6 +8,6 @@ selenium.install({
     logger: function (message) { console.log(message) },
     progressCb: function (totalLength, progressLength, chunkLength) {}
 }, function (err) {
-    if (err) throw new Error(`Selenium 安装错误: ${err}`)
-    console.log('Selenium 安装完成.')
+    if (err) throw new Error(`Selenium install error: ${err}`)
+    console.log('Selenium install completed.')
 })
