@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites errors="0"
-            failures="1"
+            failures="0"
             tests="2">
 
   <testsuite name="koodoTest"
-    errors="0" failures="1" hostname="" id="" package="koodoTest" skipped="1"
-    tests="2" time="5.383" timestamp="Thu, 25 Jan 2018 19:20:07 GMT">
+    errors="0" failures="0" hostname="" id="" package="koodoTest" skipped="0"
+    tests="2" time="17.87" timestamp="Thu, 25 Jan 2018 19:55:39 GMT">
   
-    <testcase name="demo test koodo" classname="koodoTest" time="5.383" assertions="1">  <failure message="Timed out while waiting for element &lt;body&gt; to be present for 1000 milliseconds.">    at Object.demo test koodo (c:\nightWatchTest\tests\koodoTest.js:26:8)
-    at _combinedTickCallback (internal/process/next_tick.js:131:7)</failure>
+    <testcase name="demo test koodo" classname="koodoTest" time="7.239" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="go to selfserve" classname="koodoTest" time="10.63" assertions="1">
 
     
     </testcase>
@@ -16,13 +22,6 @@
 
   
 
-  
-    
-    <testcase
-      name="go to selfserve" classname="koodoTest">
-      <skipped />
-    </testcase>
-    
   
   </testsuite>
 </testsuites>

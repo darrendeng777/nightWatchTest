@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="SelfServe.koodoTest"
+    errors="0" failures="0" hostname="" id="" package="SelfServe" skipped="0"
+    tests="2" time="25.27" timestamp="Tue, 30 Jan 2018 16:12:51 GMT">
+  
+    <testcase name="demo test koodo" classname="SelfServe.koodoTest" time="16.05" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="go to selfserve" classname="SelfServe.koodoTest" time="9.221" assertions="1">
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

@@ -13,7 +13,7 @@ module.exports = {
         chrome: {
             // if you need to know the latest chrome driver link please check link below
             // https://chromedriver.storage.googleapis.com/index.html
-            version: '2.9',
+            version: '2.35',
             arch: process.arch,
             baseURL: 'https://chromedriver.storage.googleapis.com'
         }
