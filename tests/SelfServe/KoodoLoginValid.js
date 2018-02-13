@@ -1,4 +1,4 @@
-**
+/**
  * Sample automated test scenario for Nightwatch.js
  *
  * > it navigates to koodo.com and searches for nightwatch,
@@ -11,7 +11,7 @@ const locator = {
 }
 
 const userInfo = {
-  URL: 'https://www.koodomobile.com'，
+  URL: 'https://www.koodomobile.com',
   username: 'sheldon_hua@telusinternal.com',
   password: 'Koodouat1234',
   pageTitle: 'Overview | Koodo Mobile'
